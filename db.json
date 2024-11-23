@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "title": "segunda tarefa editado 3",
+      "completed": true,
+      "createdAt": "",
+      "updatedAt": 1705280885047,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "title": "nova tarefa editado2",
+      "completed": true,
+      "createdAt": 1705108845117,
+      "updatedAt": 1705185361881,
+      "id": 5,
+      "userId": "2"
+    },
+    {
+      "title": "mais uma tarefa 2",
+      "completed": true,
+      "createdAt": 1706049943173,
+      "updatedAt": 1706049962024,
+      "id": 6,
+      "userId": "2"
+    },
+    {
+      "title": "teste com fetch 2",
+      "completed": true,
+      "createdAt": 1706231938036,
+      "updatedAt": 1706231959971,
+      "id": 7,
+      "userId": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "madruga@server.com"
+    },
+    {
+      "id": 2,
+      "email": "maria@server.com"
+    },
+    {
+      "id": 3,
+      "email": "joao@server.com"
+    }
+  ]
+}
